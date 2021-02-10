@@ -1,0 +1,18 @@
+td {
+    border: solid black;
+    text-align: center;
+    background-color: #ffffcc;
+    padding: 5px 30px 5px 30px;
+}
+table {
+    color: #7d3016;
+}
+#cel1 {
+    background-color: #669965;
+}
+.tam {
+    background-color: #feff99;
+}
+.title {
+    background-color: #ffcb99; 
+}
