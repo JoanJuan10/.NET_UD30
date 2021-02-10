@@ -1,0 +1,28 @@
+table{
+    width: 100%;
+}
+td {
+    border: solid;
+    color: black;
+    font-weight: 800;
+    text-align: center;
+}
+#cel1 {
+    background-color: #99fe99;
+}
+#cel2 {
+    background-color: #66feff;
+    text-align: left;
+}
+#cel6 {
+    background-color: #ff99ff;
+    text-align: right;
+    vertical-align: bottom;
+}
+.celdamedio {
+    color: #de545d;
+    border-color: black;
+}
+h3 {
+    text-align: center;
+}
