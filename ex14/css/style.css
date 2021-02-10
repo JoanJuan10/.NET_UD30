@@ -1,0 +1,25 @@
+img {
+    
+    display: block;
+    margin: 0 auto;
+}
+table {
+    margin: 100px auto;
+    display: absolute;
+    
+}
+th, td {
+    border: solid;
+    background-color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+td {
+    background-color: #feff99;
+}
+body {
+    background-image: url("../img/pingu.png");
+    background-repeat: no-repeat;
+    background-position: top;
+}
