@@ -1,0 +1,15 @@
+td, th {
+    border: solid #55a3ba;
+    font-weight: 600;
+    padding-right: 15px;
+}
+th {
+    background-color: #003333;
+    color: #8cbf9b;
+}
+.light {
+    background-color: #ccffcc;
+}
+.dark {
+    background-color: #99cc99;
+}
